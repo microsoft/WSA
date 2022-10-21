@@ -24,6 +24,6 @@ body:
   attributes:
     label: Please specify the version of Windows Subsystem for Android
     description: You can find your version number in the Windows Subsystem for Android Settings app, under the About section
-    placeholder: example: 2207.40000.8.0
+    placeholder: such as 2207.40000.8.0
   validations:
     required: true
