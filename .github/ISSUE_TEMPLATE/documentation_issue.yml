@@ -1,8 +1,6 @@
 name: "📚 Documentation Issue"
 description: Report issues in our documentation
 labels: ["triage-needed", "documentation"]
-- Issue-Docs
-- Triage-Needed 
 body:
 - type: textarea
   attributes: 
