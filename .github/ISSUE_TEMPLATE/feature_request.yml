@@ -19,11 +19,3 @@ body:
   attributes:
     label: Describe alternatives you've considered
     description: A clear and concise description of any alternative solutions or features you've considered.
-    
-- type: input
-  attributes:
-    label: Please specify the version of Windows Subsystem for Android
-    description: You can find your version number in the Windows Subsystem for Android Settings app, under the About section
-    placeholder: such as 2207.40000.8.0
-  validations:
-    required: true
