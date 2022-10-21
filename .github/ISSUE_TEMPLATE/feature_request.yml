@@ -20,11 +20,10 @@ body:
     label: Describe alternatives you've considered
     description: A clear and concise description of any alternative solutions or features you've considered.
     
-- type: checkboxes
-  id: version-check
+- type: input
   attributes:
-    label: Have you set this feature request's Milestone field to Future Release?
-    options:
-      - label: I have set this issue's milestone to Future Release
-        required: true
-        
+    label: Please specify the version of Windows Subsystem for Android
+    description: You can find your version number in the Windows Subsystem for Android Settings app, under the About section
+    placeholder: Version Number
+  validations:
+    required: true
