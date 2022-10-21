@@ -16,7 +16,7 @@ Please file a bug only for developer issues with the subsystem.
 
 - Please avoid filing duplicates of [open](https://github.com/microsoft/WSA/issues?q=is%3Aopen+is%3Aissue+label%3Abug) or [closed](https://github.com/microsoft/WSA/issues?q=is%3Aissue+is%3Aclosed+label%3Abug) bugs
 - All new bugs will automatically be tagged with the **bug** label
-- Always include the version number of Windows Subsystem for Android in the **Milestone** field of the bug. You can find your version number in the Windows Subsystem for Android **Settings app**, under the **About** section. This will look something like "Version  2207.40000.8.0" and will correspond to an [existing Milestone](https://github.com/microsoft/WSA/milestone/6)
+- Always include the version number of Windows Subsystem for Android in the **Version Number** field of the bug. You can find your version number in the Windows Subsystem for Android **Settings app**, under the **About** section. This will look something like "Version  2207.40000.8.0".
 
 ### ⚙️ Feature Requests
 
@@ -24,7 +24,6 @@ Please be as detailed as possible when describing your feature request, as well 
 
 - Please avoid filing duplicates of [open](https://github.com/microsoft/WSA/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request) or [closed](https://github.com/microsoft/WSA/issues?q=is%3Aissue+is%3Aclosed+label%3Afeature-request) feature requests
 - All new feature requests will automatically be tagged with the **feature-request** label
-- Feature requests should always be created linked to the [Future Release Milestone](https://github.com/microsoft/WSA/milestone/8)
 
 
 ### 📚 Documentation Issue
