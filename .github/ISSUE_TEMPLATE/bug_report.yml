@@ -35,12 +35,11 @@ body:
   validations:
     required: false
 
-- type: checkboxes
-  id: version-check
+- type: input
   attributes:
-    label: Have you specified the version of Windows Subsystem for Android under Milestone?
+    label: Please specify the version of Windows Subsystem for Android
     description: You can find your version number in the Windows Subsystem for Android Settings app, under the About section
-    options:
-      - label: I have set this issue's milestone
-        required: true
+    placeholder: Version Number
+  validations:
+    required: true
       
