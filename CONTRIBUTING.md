@@ -16,7 +16,7 @@ Please file a bug only for developer issues with the subsystem.
 
 - Please avoid filing duplicates of [open](https://github.com/microsoft/WSA/issues?q=is%3Aopen+is%3Aissue+label%3Abug) or [closed](https://github.com/microsoft/WSA/issues?q=is%3Aissue+is%3Aclosed+label%3Abug) bugs
 - All new bugs will automatically be tagged with the **bug** label
-- Always include the version number of Windows Subsystem for Android in the **Version Number** field of the bug. You can find your version number in the Windows Subsystem for Android **Settings app**, under the **About** section. This will look something like "Version  2207.40000.8.0".
+- Always include the version number of Windows Subsystem for Android in the **Version Number** field of the bug. You can find your version number in the Windows Subsystem for Android **Settings app**, under the **About** section. This will look something like "2207.40000.8.0".
 
 ### ⚙️ Feature Requests
 
