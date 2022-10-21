@@ -18,15 +18,15 @@ Your best method of filing bugs and feature requests directly with the subsystem
 
 ![Bugs](https://img.shields.io/github/issues/microsoft/wsa/bug?label=Bugs) ![Feature Requests](https://img.shields.io/github/issues/microsoft/wsa/feature-request?color=blue&label=Feature%20Requests)
 
-You can file a bug, feature request or documentation issue under **[Issues](https://github.com/microsoft/WSA/issues)**. Please avoid filing duplicates of open/closed items. If you're filing a bug, always include the version number of Windows Subsystem for Android in the **Milestone** field of the issue.
+You can file a bug, feature request or documentation issue under **[Issues](https://github.com/microsoft/WSA/issues)**. Please avoid filing duplicates of open/closed items. If you're filing a bug, always include the version number of Windows Subsystem for Android in the **version number** field of the issue.
 
 #### Milestones (build number)
 
-**[Milestones](https://github.com/microsoft/WSA/milestones?direction=asc&sort=title&state=open)** should always be used to indicate the build number of the subsystem that your bug or feature request is targeting. You can find your version number in the Windows Subsystem for Android **Settings app**, under the **About** section.
+**[Milestones](https://github.com/microsoft/WSA/milestones?direction=asc&sort=title&state=open)** are used by the Microsoft team to track what subsystem version a bug or feature request is targeting. You can find your version number in the Windows Subsystem for Android **Settings app**, under the **About** section.
 
 |[Previous Milestones](https://github.com/microsoft/WSA/milestones?state=closed) | [Current Milestones](https://github.com/microsoft/WSA/milestones?direction=asc&sort=title&state=open) | [Future Release](https://github.com/microsoft/WSA/milestone/8)
 |:--:|:--:|:--:|
-All previous builds of the subsystem and past bugs/feature requests can be found here | The current builds of the subsystem. This is where **current bugs** should be reported and will be found. This includes the generally available build, as well as the preview builds of the subsystem. | Future build(s) of the subsystem. All **feature requests** should be associated with this milestone.
+All previous builds of the subsystem and past bugs/feature requests can be found here | The current builds of the subsystem. This is where **current bugs** will be found. This includes the generally available build, as well as the preview builds of the subsystem. | Future build(s) of the subsystem. All **feature requests** will be associated with this milestone.
 
 ### Discuss the Subsystem and FAQ
 
