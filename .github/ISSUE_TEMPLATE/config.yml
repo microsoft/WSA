@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
   - name: "Windows Feedback Hub for end-user feedback"
-    url: https://aka.ms/
+    url: http://aka.ms/FeedbackHub?appid=MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe!App
     about: If you have issues and feedback on the subsystem for non-developer topics, please use Windows Feedback Hub
  
