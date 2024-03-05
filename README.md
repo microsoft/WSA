@@ -1,5 +1,7 @@
 ﻿# Windows Subsystem for Android:tm: Developers
 
+Windows Subsystem for Android™ and the Amazon Appstore will no longer be available in the Microsoft Store after March 5, 2025. [Learn more](https://learn.microsoft.com/en-us/windows/android/wsa/).
+
 Windows Subsystem for Android enables your Windows 11 device to run Android applications that are available in the Amazon Appstore.
 
 ## What is this repository for?
